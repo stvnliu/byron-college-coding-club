@@ -3,6 +3,7 @@
 x: int = 0
 y: float = 0.112
 string: str = "Hi Mom!"
+print(type(x))
 
 # These are later concepts, but you can try it yourself at home
 spy_satellite_locations: list = [(0.23, 2.79), (68.0, 0.34)]
