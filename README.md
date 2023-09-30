@@ -14,4 +14,6 @@ This is a repository of all the templates and code files we will be using in the
 ## License
 
 VSL-VerySpicyLicense
+
+
 The project is under the MIT License. You may use it however you want. But it's basically useless outside of the coding club anyway.
