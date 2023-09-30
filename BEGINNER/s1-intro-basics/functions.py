@@ -10,8 +10,16 @@ def do_something(arg1: str, arg2: str):
 # avoid repeating yourself. Why? Because programmers are lazy and don't 
 # want to write things twice.
 
+# Sometimes you won't define a function yourself, but instead use a 
+# function from another piece of code. This can be from a standard library,
+# the usage of which we will talk about in the future.
+
 print(do_something("Apple", "Banana"))
 print(do_something("China", "America"))
 
 # Discussion
-# It is usually 
+# Usually, it is good practice to explicitly define the types for your 
+# function's parameters.This lets them know what values to input that
+# won't cause the program to break down. 
+# In languages with higher type safety (Java, TypeScript), it is
+# mandatory that you label every value with a type definition.  
