@@ -6,12 +6,11 @@ This is a repository of all the templates and code files we will be using in the
 
 ## Managers
 
-[Zhongheng Liu](https://example.com)  
-[Zhiyong He](https://example.com)  
+[Zhongheng Liu](https://github.com/zhongheng-liu)  
+[Zhiyong He](https://github.com/Ateee329)  
 [Ammar Al Zahrani](https://example.com)  
-[Andreas Manolios](https://example.com)
+[Andreas Manolios](https://github.com/andrasmy)
 
 ## License
 
-VSL-VerySpicyLicense.    
 The project is under the MIT License. You may use it however you want. But it's basically useless outside of the coding club anyway.
