@@ -44,15 +44,15 @@ class RaceTruck(Truck):
     def race(self, otherRaceTruck: RaceTruck, distanceMeters: float):
 
         # Physics stuff... Don't worry about it too much
-        selfTimeSec = sqrt(2*distanceMeters/self.accelerationMetersPerSec)
-        otherTimeSec = sqrt(2*distanceMeters/otherRaceTruck.accelerationMetersPerSec)
+        selfTimeTakenSec = sqrt(2*distanceMeters/self.accelerationMetersPerSec)
+        otherTimeTakenSec = sqrt(2*distanceMeters/otherRaceTruck.accelerationMetersPerSec)
         
         # Here, the property of the parent is modified 
         self.lifeKm += distanceMeters
         otherRaceTruck.lifeKm += distanceMeters
         
         # If the first truck uses less time to traverse the distance, it wins
-        return selfTimeSec < otherTimeSec
+        return selfTimeTakenSec < otherTimeTakenSec
     
 # 2 different RaceTruck's that are based off the same class, but have different parameters
 truck1 = RaceTruck(9000, "Mercedes-Benz", "Diesel", 0.8, 230)
