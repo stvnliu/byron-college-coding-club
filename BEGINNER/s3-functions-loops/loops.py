@@ -41,4 +41,6 @@ for i in range(1, 6):
         pass  # the pass statement is a placeholder statement that does nothing
     else:
         print(i)
-# When the loop variable i is equal to 3, the pass statement is encountered. The execution simply continues to the next iteration of the loop. For all other values of i, the else block is executed, and the value of i is printed.
+# When the loop variable i is equal to 3, the pass statement is encountered. 
+# The execution simply continues to the next iteration of the loop. 
+# For all other values of i, the else block is executed, and the value of i is printed.
