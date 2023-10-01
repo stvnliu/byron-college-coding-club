@@ -21,3 +21,8 @@ print(test.find('Hello'))
 test1 = 'oiiaioiiiai'
 print(test1.count('i'))
 # return the number of times of the value you entered in the strings
+
+'''
+You can check this Python official documentation link for more string methods：  
+https://docs.python.org/3/library/stdtypes.html#string-methods
+'''
