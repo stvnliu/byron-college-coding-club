@@ -6,6 +6,10 @@ print(test.upper())
 print(test.lower())
 # print in lower case
 
+print(len(test))
+# find the length of the strings
+# this works in list too which we will talk about in later sessions
+
 print(test.strip())
 # remove space
 
