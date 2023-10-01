@@ -1,4 +1,11 @@
 test = 'Hello World'
+
+print(test.upper())
+# print test in upper case
+
+print(test.lower())
+# print in lower case
+
 print(test.strip())
 # remove space
 
