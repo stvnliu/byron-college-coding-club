@@ -13,3 +13,17 @@ print(list[:1])
 print(list[2:])
 # print from the index 2 element (included)
 # all of them work in the same way in negative number
+
+'''
+# An array is a list of objects that can be manipulated
+data = [0, 56, 12, 3556, 6787, 114514, 1919810]
+
+print(data)
+
+# display data points
+print(data[0])
+print(data[2])
+print(data[-1])
+
+# Discussion TODO
+'''
