@@ -12,11 +12,19 @@ def program(operation: int):
                 acceptMoreInputs = False
                 continue
             total += int(num) # total = total + num
-        print("Your add result is: " + total)
+        print("Your add result is: " + str(total))
     elif operation == OP_SUB:
-        raise NotImplementedError
+        firstNum: float = float(input("First number: "))
+        secondNum: float = float(input("Second number: "))
+        return firstNum - secondNum
     elif operation == OP_DIV:
-        raise NotImplementedError
+        firstNum: float = float(input("First number: "))
+        secondNum: float = float(input("Second number: "))
+        return firstNum / secondNum
     elif operation == OP_MUL:
-        raise NotImplementedError
-        
+        firstNum: float = float(input("First number: "))
+        secondNum: float = float(input("Second number: "))
+        return firstNum * secondNum
+    else:
+        return
+program(OP_ADD)
