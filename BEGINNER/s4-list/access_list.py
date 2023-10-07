@@ -15,6 +15,7 @@ print(list[2:])
 # all of them work in the same way in negative number
 
 '''
+# The other example (original file BEGINNER/s4-list/list.py)
 # An array is a list of objects that can be manipulated
 data = [0, 56, 12, 3556, 6787, 114514, 1919810]
 
