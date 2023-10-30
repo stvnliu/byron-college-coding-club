@@ -2,18 +2,20 @@
 
 ## Discussions
 
-## Exercise
-After gathering all this information, display it back to the user in an organized and readable format.
-Use appropriate data types for the information gathered.
------------------------------------------
-Sample output:
-Please enter your name: [user inputs their name]
-Please enter your age: [user inputs their age]
-Please enter your email address: [user inputs their email]
-Please enter your gender: [user inputs their gender]
+# Exercise 
 
------ Your Information -----
-Name: [user's name]
-Age: [user's age]
-Email: [user's email]
-Favorite Number: [user's gender]
+After gathering all this information, display it back to the user in an organized and readable format.
+Use appropriate data types for the information gathere
+
+-----------------------------------------  
+Sample output:  
+Please enter your name: [user inputs their name]  
+Please enter your age: [user inputs their age]  
+Please enter your email address: [user inputs their email]  
+Please enter your gender: [user inputs their gender]  
+  
+----- Your Information -----  
+Name: [user's name]  
+Age: [user's age]  
+Email: [user's email]  
+Favorite Number: [user's gender]  
