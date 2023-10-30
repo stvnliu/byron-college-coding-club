@@ -19,3 +19,10 @@ Name: [user's name]
 Age: [user's age]  
 Email: [user's email]  
 Favorite Number: [user's gender]  
+
+          
+hints:
+1. Ask the user to input their name.  
+2. Ask the user to input their age.  
+3. Ask the user to input their email address.  
+4. Ask the user to input their favorite number.  
