@@ -7,7 +7,7 @@ This is a repository of all the templates and code files we will be using in the
 ## Managers
 
 [Zhongheng Liu](https://github.com/zhongheng-liu)  
-[Zhiyong He](https://github.com/Ateee329)  
+[Zhiyong He](https://github.com/Ate329)  
 [Ammar Al Zahrani](https://example.com)  
 [Andreas Manolios](https://github.com/andrasmy)
 
